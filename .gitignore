@@ -1,0 +1,11 @@
+.idea/
+__pycache__
+.DS_Store
+.vscode
+build/
+devel/
+.build_info.*
+*doxygen*
+*.cache*
+*local/
+.catkin_workspace
