@@ -1,0 +1,5 @@
+repositories:
+  src/dependency:
+    type: git
+    url: git@github.com:Yyote/dependency.git
+    version: master
