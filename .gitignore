@@ -9,3 +9,4 @@ devel/
 *.cache*
 *local/
 .catkin_workspace
+__pycache__
