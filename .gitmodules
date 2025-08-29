@@ -1,0 +1,3 @@
+[submodule "src/dependency"]
+	path = src/dependency
+	url = git@github.com:Yyote/dependency.git
