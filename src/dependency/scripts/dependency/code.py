@@ -1,5 +1,5 @@
 FOO = "bar"
-FOO2 = "bar2"
+FOO2 = "bar3"
 
 class FooBar:
     def __init__(self):
