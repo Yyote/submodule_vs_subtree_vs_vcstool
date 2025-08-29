@@ -1,4 +1,8 @@
-from dependency.code import foo, foo2
+from dependency.code import FOO, FOO2, FooBar
 
-print(foo)
-print(foo2)
+print(FOO)
+print(FOO2)
+
+bar = FooBar()
+bar.print()
+
